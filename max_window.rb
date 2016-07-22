@@ -22,7 +22,6 @@ def windowed_max_range(arr, w)
   end
 
   max_range
-
 end
 
 p windowed_max_range([1, 0, 2, 5, 4, 8], 2) == 4 # 4, 8
